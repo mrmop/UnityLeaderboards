@@ -16,4 +16,4 @@ The server side is split across 3 files:
 To use, copy the files from the server folder to your server then run main.js then attach the Leaderboards script to a
 game object in Unity and call the supplied methods for interacting with the leaderboards.
 
-All code contained within this repo is provided AS IS and withought any warranty whatsoever, feel free to use it as you please in your own projects.
+All code contained within this repo is provided AS IS and without any warranty whatsoever, feel free to use it as you please in your own projects.
